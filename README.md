@@ -1,2 +1,2 @@
-# vcc-assignments
-Repository for Virtualization and Cloud Computing Assignments
+### VMs setup on virtual box.
+
